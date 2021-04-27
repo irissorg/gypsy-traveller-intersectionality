@@ -1,6 +1,3 @@
-[submodule "themes/hugo-notice"]
-	path = themes/hugo-notice
-	url = https://github.com/martignoni/hugo-notice.git
 [submodule "themes/iriss-course"]
 	path = themes/iriss-course
 	url = https://github.com/irissorg/iriss-course
