@@ -3,4 +3,4 @@
 	url = https://github.com/martignoni/hugo-notice.git
 [submodule "themes/iriss-course"]
 	path = themes/iriss-course
-	url = https://github.com/irissorg/iriss-course.git
+	url = https://github.com/irissorg/iriss-course
