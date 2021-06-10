@@ -15,15 +15,23 @@ This resource explores the intersectionality of Gypsy/Traveller identity and pro
 
 It was researched and written by Davie Donaldson, a Scottish Traveller Activist and Social Entrepreneur and founder of [Progress in Dialogue](https://progressindialogue.org.uk/).
 
-[Listen to Davie share what he learned through developing this resource.](https://soundcloud.com/iriss/davie-edit/s-yWHvGadlfpl)
+### Listen to Davie share what he learned through developing this resource
+
+{{< soundcloud 1023273877 >}}
 
 As part of the research, Davie interviewed several people from the Gypsy/Traveller community to share their personal experiences to inform this resource. These stories were developed into case studies.  The resource is in three sections:
 
-**Context** provides background to the culture of Gypsy/Traveller communities and explores the relationship social work has had historically with these communities.  \
+### Context
 
-**Our Voices** focuses on Gypsy/Traveller lived experience, particularly on gender and LGBTQI+ identity. Through hearing the personal stories of community members, professionals can be more culturally aware and sensitive to inequalities faced by Gypsy/Traveller communities.
+This provides background to the culture of Gypsy/Traveller communities and explores the relationship social work has had historically with these communities.  \
 
-**Improving practice: Practical steps** provide guidance that reflects on the role of social work in understanding Gypsy/Traveller intersectionality – how to embed culturally proficient practice and challenge unconscious bias.  
+### Our Voices
+
+Focuses on Gypsy/Traveller lived experience, particularly on gender and LGBTQI+ identity. Through hearing the personal stories of community members, professionals can be more culturally aware and sensitive to inequalities faced by Gypsy/Traveller communities.
+
+### Improving practice: Practical steps
+
+Provide guidance that reflects on the role of social work in understanding Gypsy/Traveller intersectionality – how to embed culturally proficient practice and challenge unconscious bias.  
 
 ## Outcomes
 

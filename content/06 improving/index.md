@@ -3,11 +3,12 @@ title = "Improving practice: Practical steps"
 subtitle = ""
 description = "Explore the intersectionality of Gypsy/Traveller identity and provides valuable insight for social work professionals"
 url= "improving-practice"
-featured_image =  "/images/gt5.jpg"
+featured_image =  "../images/gt5.jpg"
 date = 2021-06-01T15:13:22Z
 draft = false
 menu = "main"
 weight = 60
+toc = true
 +++
 This section will take a solution-focused approach to improving social work practice by connecting the theoretical frameworks of Intersectionality and cultural trauma, with the lived experience of community members.
 

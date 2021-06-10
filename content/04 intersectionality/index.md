@@ -1,9 +1,9 @@
 +++
-title = "The history of social work and Gypsy/Travellers"
+title = "Intersectionality"
 subtitle = ""
 description = "Explore the intersectionality of Gypsy/Traveller identity and provides valuable insight for social work professionals"
 url= "intersectionality"
-featured_image =  "/images/gt4.jpg"
+featured_image =  "../images/gt4.jpg"
 date = 2021-06-01T15:13:22Z
 draft = false
 menu = "main"

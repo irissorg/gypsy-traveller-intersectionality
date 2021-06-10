@@ -8,6 +8,7 @@ date = 2021-06-01T15:13:22Z
 draft = false
 menu = "main"
 weight = 30
+toc = true
 +++
 Gypsy/Traveller history is littered with persecution and oppression. They have experienced marginalisation of their nomadic culture, been forced into [‘reservations’](https://www.bbc.co.uk/news/uk-scotland-tayside-central-51545113) and have had their children [forcibly sent abroad](https://www.travellerstimes.org.uk/features/tinkers-and-gipsies-historic-tragedy-attempted-eradication-scotlands-travellers).
 

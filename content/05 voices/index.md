@@ -3,11 +3,12 @@ title = "Our voices"
 subtitle = ""
 description = "Explore the intersectionality of Gypsy/Traveller identity and provides valuable insight for social work professionals"
 url= "our-voices"
-featured_image =  "/images/gt5.jpg"
+featured_image =  "../images/gt5.jpg"
 date = 2021-06-01T15:13:22Z
 draft = false
 menu = "main"
 weight = 50
+toc = true
 +++
 This section focuses on the lived experience of Gypsy/Traveller intersectionality through the stories and voices of Gypsy/Travellers in Scotland, specifically how intersectional identity relates to:
 

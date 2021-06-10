@@ -3,11 +3,12 @@ title = "Context"
 subtitle = ""
 description = "Explore the intersectionality of Gypsy/Traveller identity and provides valuable insight for social work professionals"
 url= "context"
-featured_image =  "/images/gt2.jpg"
+featured_image =  "../images/gt2.jpg"
 date = 2021-06-01T15:13:22Z
 draft = false
 menu = "main"
 weight = 20
+toc = true
 +++
 This section outlines the background to the culture of Gypsy/Traveller communities and explores the relationship social work has had historically with these communities.
 
