@@ -23,7 +23,7 @@ As part of the research, Davie interviewed several people from the Gypsy/Travell
 
 ### Context
 
-This provides background to the culture of Gypsy/Traveller communities and explores the relationship social work has had historically with these communities.  \
+This provides background to the culture of Gypsy/Traveller communities and explores the relationship social work has had historically with these communities.
 
 ### Our Voices
 

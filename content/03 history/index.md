@@ -24,6 +24,8 @@ To fully understand the impact of social work’s historical role in the oppress
 
 ![alt_text](images/image1.png "image_tooltip")
 
+IMAGE HERE
+
 ### What is cultural trauma?
 
 Trauma is traditionally understood as having a deeply disturbing personal experience. However, professionals are now starting to recognise that trauma can also be experienced indirectly, and that it is not necessarily the traumatic event itself that causes trauma, but the memory of it. Therefore, when we have ‘collective memory’ of a traumatic event, trauma can potentially impact whole communities through remembrance – this is called ‘cultural trauma’.

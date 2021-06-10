@@ -13,6 +13,7 @@ Intersectionality is defined as an analytical framework for understanding how as
 
 In other words, it is a term attributed to the way of thinking about identity and its relationship to power.
 
-    ‘A concept that describes how certain aspects of who you are will increase your access to the good things or increase your exposure to the bad things.’  (Crenshaw, 2020)
+> A concept that describes how certain aspects of who you are will increase your access to the good things or increase your exposure to the bad things.  
+**Crenshaw, 2020**
 
 This resource highlights Gypsy/Traveller intersectionality and specific considerations for social work practice. Intersectionality is a crucial methodology for social work as it enables practitioners to fully appreciate an individual’s context, marginalisation and effectively consider safeguarding concerns. Furthermore, intersectional identities can often mean taking a very different approach to engagement and support.

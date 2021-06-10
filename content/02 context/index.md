@@ -22,14 +22,14 @@ The lived identity of Gypsy/Travellers can take many forms – some families are
 
 In this section we give a brief background to each community, principally: Scottish Gypsy/Travellers, Irish Travellers and Romany Gypsies. Each of these communities are recognised ethnic minorities and protected under the ‘Race’ category of the Equality Act (2010).
 
-```
+{{< notice info >}}
 Context: Equality Act (2010)
 
 The Equality Act (2010) legally protects people from discrimination in the workplace and in wider society.
 The legislation replaced previous anti-discrimination laws with a single Act, making the law easier to understand and strengthening protection for some characteristics. It sets out the different ways in which it's unlawful to treat someone.
 
 Social work has a legal obligation to uphold the Equality Act (2010), ensuring accessibility, fairness and equity. Find out more about who is protected from discrimination, and the types of discrimination under the law. 
-```
+{{< /notice >}}
 
 ## Scottish Gypsy/Travellers
 
@@ -55,9 +55,9 @@ Some Irish Travellers identify as Pavee or Minceir, which are words from the Iri
 
 Romany Gypsies have been in Scotland since at least 1505, when King James the IV met a number of ‘Egyptians’ camped near Stirling. The term Gypsy derives from ‘Egyptian’ which is what settled people perceived them to be because of their dark complexion. However, scholars now believe that the Romany arrived in Britain after migrating from continental Europe during the Roma migration from India, not Egypt.
 
-```
+{{< notice note >}}
 There are several 'cultural' travelling communities in Scotland who are not yet recognised as 'ethnic' Travellers, such as Showmen and New Age Travellers. These communities are not generally considered under the term 'Gypsy/Traveller', however, they often have close social and historical ties with other Gypsy/Traveller communities.
-```
+{{< /notice >}}
 
 ## Terminology
 

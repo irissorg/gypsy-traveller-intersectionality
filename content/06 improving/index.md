@@ -128,14 +128,33 @@ This activity will help you to spot unconscious bias and can be used in most sit
 
 #### Instructions
 
-All the above headlines on the left-hand side are real headlines from local press throughout the UK. On the right-hand side, we have swapped the targeted group from Gypsy/Travellers to another protected minority.
+#### The Headline Exchange
 
-1. Reflect on how you feel reading the headlines on the left-hand side, as opposed to the right-hand side (eg Do you feel one side is worse than the other? Which side are you most outraged by?).
+* **Travellers invade local park   ----------------->   Jews invade local park**
+* **Village to evict Gypsies   ------------------------>   Village to evict the Disabled**
+* **Stamp on the camps   --------------------------->   Stamp on their homes**
+
+All the above headlines on the left are real headlines from local press throughout the UK. On the other side, we have swapped the targeted group from Gypsy/Travellers to another protected minority.
+
+1. Reflect on how you feel reading the headlines on the left side, as opposed to the right side (eg Do you feel one side is worse than the other? Which side are you most outraged by?).
 2. On a piece of paper draw three columns (as shown below).
 3. In the first column write down a situation you would expect social work to routinely support communities with/ a situation you’re actively supporting.
 4. Consider this situation happening within a settled community/ to a settled person. In the central column write down any feelings that you have and in the last column any action you would propose to take.
 5. Repeat this process but consider the same situation happening within a Gypsy/Traveller community/ to a Gypsy/Traveller person.
 6. Were there any differences between the two? Were your actions the same? If not, what was different? Did both situations make you feel the same? Reflect on the action proposed if any bias comes to light.  
+
+{{< table id="sample" class="bordered" data-sample=10 >}}
+|Situation|Feelings|Action(s)|
+|------|------|------|
+|------|------|------|
+|------|------|------|
+|------|------|------|
+|------|------|------|
+|------|------|------|
+|------|------|------|
+|------|------|------|
+{{</ table >}}
+
 
 <table>
   <tr>
@@ -167,10 +186,10 @@ Situation
 
 
 <!-- Footnotes themselves at the bottom. -->
-## Notes
+## Footnotes
 
-[^1]:
+1
      Our resource has used the term 'Scottish Gypsy/Traveller', which is in line with the Scottish Government's official recognised terminology. However, it is important to note that not all families accept this terminology with some preferring to be defined as 'Nawken' (Donaldson, 2020), ‘Traveller’ (Tammi & Cadger, 2017) and 'Torikker' (MacDonald, 2009).  
 
-[^2]:
+2
      ‘the explanation of something by a man, typically to a woman, in a manner regarded as condescending or patronizing.’ (Oxford Languages)
