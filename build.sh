@@ -1,0 +1,1 @@
+hugo --cleanDestinationDir --verbose -D 
