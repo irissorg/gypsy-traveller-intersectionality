@@ -23,12 +23,13 @@ The lived identity of Gypsy/Travellers can take many forms – some families are
 In this section we give a brief background to each community, principally: Scottish Gypsy/Travellers, Irish Travellers and Romany Gypsies. Each of these communities are recognised ethnic minorities and protected under the ‘Race’ category of the Equality Act (2010).
 
 {{< notice info >}}
-Context: Equality Act (2010)
+
+### Context: Equality Act (2010)
 
 The Equality Act (2010) legally protects people from discrimination in the workplace and in wider society.
 The legislation replaced previous anti-discrimination laws with a single Act, making the law easier to understand and strengthening protection for some characteristics. It sets out the different ways in which it's unlawful to treat someone.
 
-Social work has a legal obligation to uphold the Equality Act (2010), ensuring accessibility, fairness and equity. Find out more about who is protected from discrimination, and the types of discrimination under the law. 
+Social work has a legal obligation to uphold the Equality Act (2010), ensuring accessibility, fairness and equity. Find out more about who is protected from discrimination, and the types of discrimination under the law.
 {{< /notice >}}
 
 ## Scottish Gypsy/Travellers
@@ -47,7 +48,7 @@ There is no comprehensive history book on Scottish Gypsy/Travellers, but despite
 
 Irish Travellers are a nomadic group of people that traditionally originate in Ireland. There has been a long-recorded presence of Irish Travellers in Ireland, dating back to at least the [12th century](http://www.romaniarts.co.uk/gypsy-travellers-in-britain-history-timeline-2/). Over the years, many Irish Travellers migrated to Scotland and many families have strong family and employment ties throughout the country.
 
-The Irish Traveller community was recognised as an ethnic minority in the UK under the Race Relations Act 1976 (amended 2000). However, the community celebrate Irish Traveller ethnicity day on the 1<sup>st</sup> of March every year in celebration of being officially recognised in Ireland on the 1<sup>st</sup> of March 2017.
+The Irish Traveller community was recognised as an ethnic minority in the UK under the Race Relations Act 1976 (amended 2000). However, the community celebrate Irish Traveller ethnicity day on the 1st of March every year in celebration of being officially recognised in Ireland on the 1st of March 2017.
 
 Some Irish Travellers identify as Pavee or Minceir, which are words from the Irish Traveller language, commonly referred to as ‘Gammon’ or ‘Cant’.
 

@@ -3,7 +3,7 @@ title = "Improving practice: Practical steps"
 subtitle = ""
 description = "Explore the intersectionality of Gypsy/Traveller identity and provides valuable insight for social work professionals"
 url= "improving-practice"
-featured_image =  "../images/gt5.jpg"
+featured_image =  "../images/gt2.jpg"
 date = 2021-06-01T15:13:22Z
 draft = false
 menu = "main"
@@ -37,14 +37,16 @@ Cultural awareness includes avoiding conversations about sex, puberty and sexual
 
 In Kathleen’s experience there was a lack of awareness around the importance of marriage to young Gypsy/Traveller women. This led to her feeling misunderstood, forced to stay in an unhealthy relationship and having to tell ‘them [social work] everything is fine when it’s no.’  Having an active-listening session with young women in this position may help you to develop a better knowledge of their options and personal context.
 
-```
-Tool: Social Network Mapping
+{{< notice info >}}
+
+#### Tool: Social Network Mapping
+
 One method of talking through the social implications of leaving an unhealthy relationship could be to complete a social mapping exercise.
 
 Asking questions and physically drawing support circles within and outwith the community, alongside potential allies within the community.
 
 This would enable you to gain better understanding of social reliance within the community, the implications of leaving a marriage, and develop the best strategy with that individual.
-```
+{{< /notice >}}
 
 ### Safeguarding
 
@@ -52,9 +54,13 @@ Safeguarding was highlighted as a concern by Kathleen, particularly in reference
 
 Furthermore, Steven’s story highlighted to us the immense pressure that exists for young LGBTQI+ Gypsy/Travellers; and James was very focused on ensuring any support for LGBTQI+ Gypsy/Travellers was done subtly.
 
+{{< notice tip >}}
+
 ### James’ practical tip
 
 Create  LGBTQI+ information leaflets alongside general information on how to support Gypsy/Travellers. This will increase the chances of young people picking up resources as they’ll feel safe taking them home and not arousing suspicion.
+
+{{< /notice >}}
 
 ### Consistency
 
@@ -120,11 +126,15 @@ Some forms of unconscious bias are natural as historically they would help us to
 
     We can fall victim to bias very easily, our judgement can be clouded with previous experiences or stories we have heard. Therefore, you should always separate the issue and the person, to make sure that your approach/action is unbiased. When doing this always consider proportionality (eg is your planned approach/action proportionate to the approach/action you would take in the same case with a different person?)
 
+{{< notice info >}}
+
 ### Tool: Headline Exchange
 
 A helpful tool to support you separate the person and the issue is the ‘Headline exchange’. In a world where we are constantly surrounded by the media, headlines are part of our daily lives – so much so that they can mask and create unconscious bias.
 
 This activity will help you to spot unconscious bias and can be used in most situations to make unbiased decisions. After some practice you can even use this tool mentally, for more effective, unbiased decision-making.
+
+{{< /notice >}}
 
 #### Instructions
 
@@ -154,42 +164,3 @@ All the above headlines on the left are real headlines from local press througho
 |------|------|------|
 |------|------|------|
 {{</ table >}}
-
-
-<table>
-  <tr>
-   <td>
-Situation
-   </td>
-   <td>Feelings
-   </td>
-   <td>Action(s)
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
-
-
-<!-- Footnotes themselves at the bottom. -->
-## Footnotes
-
-1
-     Our resource has used the term 'Scottish Gypsy/Traveller', which is in line with the Scottish Government's official recognised terminology. However, it is important to note that not all families accept this terminology with some preferring to be defined as 'Nawken' (Donaldson, 2020), ‘Traveller’ (Tammi & Cadger, 2017) and 'Torikker' (MacDonald, 2009).  
-
-2
-     ‘the explanation of something by a man, typically to a woman, in a manner regarded as condescending or patronizing.’ (Oxford Languages)

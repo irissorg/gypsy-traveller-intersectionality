@@ -3,7 +3,7 @@ title = "The history of social work and Gypsy/Travellers"
 subtitle = ""
 description = "Explore the intersectionality of Gypsy/Traveller identity and provides valuable insight for social work professionals"
 url= "history"
-featured_image =  "/images/gt3.jpg"
+featured_image =  "../images/gt3.jpg"
 date = 2021-06-01T15:13:22Z
 draft = false
 menu = "main"
@@ -18,9 +18,7 @@ Their report made lots of recommendations including a comment: ‘eradication is
 
 ## Key theory: cultural trauma
 
-To fully understand the impact of social work’s historical role in the oppression of Gypsy/Traveller communities, we must be aware of the cultural trauma potentially caused by the forced removal of Gypsy/Traveller children throughout the twentieth century.  
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+To fully understand the impact of social work’s historical role in the oppression of Gypsy/Traveller communities, we must be aware of the cultural trauma potentially caused by the forced removal of Gypsy/Traveller children throughout the twentieth century.
 
 ![alt_text](images/image1.png "image_tooltip")
 
