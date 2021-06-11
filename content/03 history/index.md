@@ -20,9 +20,13 @@ Their report made lots of recommendations including a comment: ‘eradication is
 
 To fully understand the impact of social work’s historical role in the oppression of Gypsy/Traveller communities, we must be aware of the cultural trauma potentially caused by the forced removal of Gypsy/Traveller children throughout the twentieth century.
 
-![alt_text](images/image1.png "image_tooltip")
+{{< rawhtml >}}
+  <img style="max-width:90%;" src="../images/transgenerational-transmission-8.png" alt=" " />
+{{< /rawhtml >}}
 
-IMAGE HERE
+### Figure 1. Transgenerational Transmission of Historical Trauma
+
+The diagram depicts some of the hypothetical pathways through which the effects of trauma and loss may be transmitted across generations through processes at multiple levels, including: epi-genetic alterations of stress response, changes in individuals' psychological well-being, self-esteem, and self-efficacy, family functioning, community integrity and cultural identity, and the continuity of identity and collective efficacy of whole nations or peoples. (Adapted from Kirmayer et al., 2007).
 
 ### What is cultural trauma?
 

@@ -6,7 +6,7 @@ url= "references"
 date = 2021-06-01T15:13:22Z
 draft = false
 menu = "main"
-weight = 100
+weight = 70
 +++
 
 * Bombay A, Matheson K and Anisman H (2011) The impact of stressors on second generation Indian residential school survivors. _Transcultural Psychiatry,_48, 4, 367-391.

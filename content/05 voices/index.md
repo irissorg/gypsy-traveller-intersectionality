@@ -119,7 +119,7 @@ I’m Margaret, a 27 year-old Scottish Traveller. Growing up in Scotland I faced
 
 As far as accommodation, anytime we’d shift (‘shifting’ is a Scottish Traveller term for ‘going on the road’) we’d get chased. You wouldn’t be on a camp a day or two before the polis (Police) would come down and tell you you’ve got to move. So, you could never settle in one place.
 
-I really don’t feel our culture and community is understood. Like I’ve had one experience a lot – like when I was with my friend his family would be like, ‘oh the Gypsies down there’, an’ I’d be like no, that’s Showfolk, that’s no Travellers – that’s no my folk. An’ ye dinnae say Gypsy because I find that offensive. But every single time, even though I explained it they’d still say ‘oh I saw the Gypsies doon there’. I’d be like it’s no, but it’s people mansplaining[^2] your own culture back to you when they know nothing about it – if that makes sense?
+I really don’t feel our culture and community is understood. Like I’ve had one experience a lot – like when I was with my friend his family would be like, ‘oh the Gypsies down there’, an’ I’d be like no, that’s Showfolk, that’s no Travellers – that’s no my folk. An’ ye dinnae say Gypsy because I find that offensive. But every single time, even though I explained it they’d still say ‘oh I saw the Gypsies doon there’. I’d be like it’s no, but it’s people mansplaining [1](#footnotes) your own culture back to you when they know nothing about it – if that makes sense?
 
 > ...people mansplaining your own culture back to you when they know nothing about it.
 
@@ -382,6 +382,4 @@ I think social work can build trust with the Gypsy/Traveller community by better
 
 ## Footnotes
 
-1 Our resource has used the term 'Scottish Gypsy/Traveller', which is in line with the Scottish Government's official recognised terminology. However, it is important to note that not all families accept this terminology with some preferring to be defined as 'Nawken' (Donaldson, 2020), ‘Traveller’ (Tammi & Cadger, 2017) and 'Torikker' (MacDonald, 2009).  
-
-2 ‘the explanation of something by a man, typically to a woman, in a manner regarded as condescending or patronizing.’ (Oxford Languages)
+1 ‘the explanation of something by a man, typically to a woman, in a manner regarded as condescending or patronizing.’ (Oxford Languages)

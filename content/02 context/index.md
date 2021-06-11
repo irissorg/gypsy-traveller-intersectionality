@@ -34,7 +34,7 @@ Social work has a legal obligation to uphold the Equality Act (2010), ensuring a
 
 ## Scottish Gypsy/Travellers
 
-Nobody can be certain of the origins of Scottish Gypsy/Travellers[^1]. Some claim that the community's roots lie in a pre-Celtic nomadic people (Clark, 2006), while others claim that the contemporary Scottish Gypsy/Traveller community are more closely linked with the Roma diaspora from Northern India ([McPhee, 2017](https://www.iriss.org.uk/sites/default/files/2017-06/gt-timeline-A4-web.pdf)). However, they are one of Scotland’s oldest nomadic cultures, travelling Scotland’s highways and by-ways for nearly one thousand years.
+Nobody can be certain of the origins of Scottish Gypsy/Travellers [1](#terminology). Some claim that the community's roots lie in a pre-Celtic nomadic people (Clark, 2006), while others claim that the contemporary Scottish Gypsy/Traveller community are more closely linked with the Roma diaspora from Northern India ([McPhee, 2017](https://www.iriss.org.uk/sites/default/files/2017-06/gt-timeline-A4-web.pdf)). However, they are one of Scotland’s oldest nomadic cultures, travelling Scotland’s highways and by-ways for nearly one thousand years.
 
 Scottish Gypsy/Travellers continue to retain their unique culture through distinct cultural codes, languages and beliefs. Indeed, language and orality are pillars of Scottish Gypsy/Traveller identity, with at least two spoken languages present in the community - Beurla Ragaird and The Cant. Beurla Ragaird is mainly spoken by Highland Travellers, with The Cant being spoken throughout the Lowlands, Perthshire and north east of Scotland.
 
@@ -62,4 +62,4 @@ There are several 'cultural' travelling communities in Scotland who are not yet 
 
 ## Terminology
 
-This resource will use ‘Gypsy/Traveller communities’ throughout, which is in line with the Scottish Government guidance. However, in the ‘Our voices’ section this may differ, as each community member will use the expression of self-preference. This approach was important to us as it ensures community members feel empowered and heard in a way that makes sense to them.
+This resource will use ‘Gypsy/Traveller communities’ throughout, which is in line with the Scottish Government guidance. However, in the ‘Our voices’ section this may differ, as each community member will use the expression of self-preference. This approach was important to us as it ensures community members feel empowered and heard in a way that makes sense to them. However, it is important to note that not all families accept this terminology with some preferring to be defined as ‘Nawken’ (Donaldson, 2020), ‘Traveller’ (Tammi & Cadger, 2017) and ‘Torikker’ (MacDonald, 2009).
