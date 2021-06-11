@@ -1,4 +1,4 @@
-baseURL = "https://content.iriss.org.uk/outcomes-covid-stories"
+baseURL = "https://content.iriss.org.uk/gypsy-traveller-intersectionality"
 languageCode = "en-gb"
 title = "Gypsy/Traveller intersectionality: strengthening the role of social work"
 theme = ["hugo-notice", "iriss-course"]
@@ -20,7 +20,7 @@ enableInlineShortcodes = true
 
 [params]
   description = "This resource explores the intersectionality of Gypsy/Traveller identity and provides valuable insight for social work professionals"
-  images = ["images/tw-card-00.png"]
+  images = ["images/tw-card.png"]
   IrissCourseAuthors  = "Davie Donaldson"
   IrissPublishDate = "June 2021"
   IrissCourseYearReleased = "2021"
