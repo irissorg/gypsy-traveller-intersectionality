@@ -16,7 +16,9 @@ Many thanks to those who shared their stories, those we interviewed.
 ## Production Team
 
 * Author: [Davie Donaldson](mailto:davie@conyach.scot)
+* Editor: [Ellen Daly](https://www.iriss.org.uk/about/team/staff/ellen-daly) (Iriss)
 * Build: [Paul Hart](https://www.iriss.org.uk/about/team/staff/paul-hart) (Iriss)
+* Illustration: [Josie Vallely](https://www.iriss.org.uk/about/team/staff/josie-vallely) (Iriss)
 
 ## Special Thanks
 
